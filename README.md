@@ -19,7 +19,7 @@
 
 ### What I learned
 
-Mostly a refresh for some basic flex CSS. 
+Mostly a refresh for some basic flexbox and CSS. 
 
 ## Author
 
